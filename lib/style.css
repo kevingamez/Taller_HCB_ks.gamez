@@ -1,0 +1,39 @@
+
+#titulopagina{
+  color:red;
+}
+p{
+  text-align: justify;
+  font-family: Arial;
+  line-height: 150%;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+#col1{
+  float: left;
+  width: 45%;
+  margin-left: 3em;
+
+}
+#col2{
+  float: right;
+  width: 45%;
+ 
+  margin-right: 3em;
+}
+.photo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto; 
+}
+
+dl{
+  text-align: justify;
+  font-family: Arial;
+  line-height: 150%;
+}
